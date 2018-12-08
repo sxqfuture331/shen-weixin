@@ -1,0 +1,1 @@
+start "" /d "%~dp0" "%~dp0frpc.exe" -c "%~dp0frpc.ini"
